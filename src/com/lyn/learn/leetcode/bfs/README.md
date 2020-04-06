@@ -1,6 +1,6 @@
 ## [1.SymmetricBinaryTree](./SymmetricBinaryTree)
 
-![image-20200406204417449](C:\Users\ruilo\AppData\Roaming\Typora\typora-user-images\image-20200406204417449.png)
+[leetCode question link](https://leetcode-cn.com/problems/symmetric-tree/)
 
 镜像对称的二叉树需要满足的基础条件为：
 
