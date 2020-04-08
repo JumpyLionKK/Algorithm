@@ -26,3 +26,10 @@ if ((node1 == null) && (node2 == null)) return true;
                 && (isUnitSymmetric(node2.left, node1.right));
 ```
 
+
+
+## 2.movingCount
+
+[leetCode question link](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
+
+经典的BFS算法，沿着每个点所有可能到达的路径依次遍历即可，需要一个数组记录状态（区分已到达和未到达）
